@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "fd0dfe728cbd592b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c42498f46679b845",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c03af55ba9d3761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Projects for retirement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ca3fd0138f0a59c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b132388f04bce4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f599edb111814a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "199f4c9302ddb28a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2bff70ff1152596",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ae58c071baddc70",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9d52a24933ab1dd",
+        "type": "tabs",
+        "dimension": 37.66730401529637,
+        "children": [
+          {
+            "id": "123010dac65a8e6a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d50a949760ce3ff8",
+        "type": "tabs",
+        "dimension": 62.33269598470363,
+        "children": [
+          {
+            "id": "9cacca995dd21df4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Projects for retirement.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a53e1b0e294a2430",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Projects for retirement.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3da1714fca5a479e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8b2fb4350e23edbe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Projects for retirement.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "9f599edb111814a8",
+  "lastOpenFiles": [
+    "Scripts",
+    "Notes/Projects for retirement.md",
+    "Notes/Configuring ZSH.md",
+    "Notes/zshrc.md",
+    "Notes/zshenv.md",
+    "Notes/17th Jul 2024.md",
+    "Notes/ZSH notes.md",
+    "17th Jul 2024.md",
+    "Attachments/zsh-console-auto.svg",
+    "Notes",
+    "Canvas",
+    "Templates",
+    "Attachments",
+    "Welcome.md"
+  ]
+}
