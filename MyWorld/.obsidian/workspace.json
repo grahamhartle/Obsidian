@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +163,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f599edb111814a8",
+  "active": "2c03af55ba9d3761",
   "lastOpenFiles": [
     "Scripts",
     "Notes/Projects for retirement.md",
